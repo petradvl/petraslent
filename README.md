@@ -1,4 +1,4 @@
-# Halo semua! 
+# Halo teman-teman semua! 
 
 Perkenalkan nama saya **Petra Timotius Anba**.<br>
 
