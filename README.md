@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Petra Timotius Anba**.<br>
 
-Saya **Cloud Computing Cohort** di [Bangkit Academy 2024 Batch 2](https://grow.google/intl/id_id/bangkit/?tab=machine-learning).<br>
+Saya **Teknik Informatika** di [Universitas Mikroskil](https://mikroskil.ac.id/).<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/petratimotiusanba/) ku ya.
 
