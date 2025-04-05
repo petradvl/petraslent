@@ -1,10 +1,10 @@
-# Halo teman-teman semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Petra Timotius Anba**.<br>
+Let me introduce myself, my name is **Petra Timotius Anba**.<br>
 
-Saya **Teknik Informatika** di [Universitas Mikroskil](https://mikroskil.ac.id/).<br>
+I am an **Informatics Engineering** at [Universitas Mikroskil](https://mikroskil.ac.id/).<br>
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/petratimotiusanba/) ku ya.
+If you are interested in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/petratimotiusanba/).
 
 ### Github Statistic
 <p align="left">
